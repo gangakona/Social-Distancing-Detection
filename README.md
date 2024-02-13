@@ -1,5 +1,6 @@
-# Social Distance Detector
-A social distance surveillance project typically involves using technology to monitor and enforce social distancing guidelines in public spaces. This kind of project aims to ensure public safety during events like pandemics where maintaining a safe physical distance between individuals is crucial to prevent the spread of diseases.
+# Social Distancing Detection
+A social distance surveillance project typically involves using technology to monitor and enforce social distancing guidelines in public spaces. This kind of project aims to ensure public safety during events like pandemics where maintaining a safe physical distance between individuals is crucial to prevent the spread of diseases. The pre-trained YOLOv3 weights, enabling rapid deployment without the need for extensive training. The COCO model dataset further enriches the system's capabilities by imparting a comprehensive understanding of object classes relevant to diverse public environments.This integration facilitates accurate identification of individuals in crowded scenarios, enabling precise measurement of the spatial separation between them.
+
 ### Camera System:
 Deploying a network of cameras to capture video footage in public spaces.
 Cameras should be strategically placed to cover a wide area where people gather.
