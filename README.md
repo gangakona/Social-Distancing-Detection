@@ -29,3 +29,7 @@ Using techniques such as image processing, deep learning, or other computer visi
 ### Alert System:
 Implementing an alert system to notify authorities or individuals when social distancing violations are detected.
 Alerts can be sent via SMS, email, or other communication channels.
+
+## Technologies used
+Python
+YOLOv3 ( Efficient Deep learning technology used for object detection)
