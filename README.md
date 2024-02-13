@@ -14,9 +14,13 @@ train the model: python train.py --img-size 640 --batch-size 16 --epochs 50 --da
 
 
 --img-size: Input image size during training.
+
 --batch-size: Batch size.
+
 --epochs: Number of training epochs.
+
 --data: Path to your dataset configuration file.
+
 --weights: Path to pre-trained weights file (optional).
 ## Social Distancing Detection:
 Developing algorithms to detect and measure the distance between individuals in the video feed.
