@@ -32,4 +32,5 @@ Alerts can be sent via SMS, email, or other communication channels.
 
 ## Technologies used
 Python
+
 YOLOv3 ( Efficient Deep learning technology used for object detection)
