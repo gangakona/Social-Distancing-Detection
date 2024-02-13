@@ -1,4 +1,4 @@
-# Social_distance_survilience
+# Social Distance Detector
 A social distance surveillance project typically involves using technology to monitor and enforce social distancing guidelines in public spaces. This kind of project aims to ensure public safety during events like pandemics where maintaining a safe physical distance between individuals is crucial to prevent the spread of diseases.
 ### Camera System:
 Deploying a network of cameras to capture video footage in public spaces.
