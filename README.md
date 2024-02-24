@@ -34,3 +34,5 @@ Alerts can be sent via SMS, email, or other communication channels.
 Python
 
 YOLOv3 ( Efficient Deep learning technology used for object detection)
+## YOLOv3 Architecture
+![yolo v3 architecture](https://github.com/gangakona/Social-Distancing-Detection/assets/110378442/123141d3-5cfe-4dd8-863e-fd7911e7f2f7)
